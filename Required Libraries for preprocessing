@@ -1,0 +1,27 @@
+## Required Libraries
+
+### Text Data
+- **NLTK**: Supports tasks such as classification, stemming, tagging, parsing, semantic reasoning, and tokenization.
+- **TextBlob**: Basic NLP tasks like sentiment analysis, pos-tagging, and noun phrase extraction.
+- **CoreNLP**: Accurate natural language parsing and rich linguistic annotations.
+- **Gensim**: Identifies semantic similarity between documents through vector space modeling and topic modeling toolkits.
+- **spaCy**: Fast syntactic parser with various NLP tasks.
+- **Polyglot**: Multilingual NLP library supporting tasks like named entity recognition and morphological analysis in multiple languages.
+- **scikit-learn**: Provides algorithms for building machine-learning models.
+- **Pattern**: Supports part-of-speech tagging, sentiment analysis, vector space modeling, SVM, clustering, n-gram search, and WordNet.
+
+### Audio Data
+- **Librosa**: Audio and music analysis.
+- **PyDub**: Audio manipulation.
+- **Soundfile**: Reading and writing sound files.
+
+### Image and Video Data
+- **OpenCV**: Computer vision tasks like face detection, object detection, face recognition, and image segmentation.
+- **Scikit-Image**: Algorithms for segmentation, color space manipulation, geometric transformation, analysis, morphology, feature detection.
+- **SciPy**: Image processing applications like segmentation, convolution, face detection, and feature extraction.
+- **PIL**: Image processing tasks like point operations, filtering, and manipulating.
+- **Matplotlib**: 2D visualizations and image processing tasks.
+- **NumPy**: Numerical analysis and image processing tasks.
+- **PyTorch**: Computer vision and deep learning tasks.
+- **Keras**: Neural network prototyping and experimentation.
+- **TensorFlow**: Directed graphs and deep learning.
